@@ -1,0 +1,90 @@
+200
+100
+Username:
+350
+100
+XXX name
+200
+200
+Complete address:
+350
+200
+XXX street
+200
+300
+Phone number:
+350
+300
+XXX-XXX-XXXX
+200
+400
+Fax number:
+350
+400
+XXX-XXX-XXXX
+200
+500
+Email address:
+350
+500
+xxx@xxx.com
+200
+600
+Manufacturer:
+350
+600
+XXX
+200
+700
+Model:
+350
+700
+XXX
+200
+800
+Serial number:
+350
+800
+XXX123456
+200
+900
+Company name:
+350
+900
+XXX
+200
+1000
+Web address:
+350
+1000
+www.xxx.com
+600
+100
+Field 1:
+750
+100
+3245
+600
+200
+Field 2:
+750
+200
+23
+600
+300
+Field 3:
+750
+300
+2331
+600
+400
+Field 4:
+750
+400
+233
+600
+500
+Field 5:
+750
+500
+12
