@@ -351,6 +351,7 @@ void CUserInfos::OnBnClickedButton2()
 	if (IDOK == dlgFile.DoModal()) {
 		try
 		{
+			Sleep(1000);
 			// transfer of the color data corresponding to a rectangle of pixels from the specified source DC into a destination DC
 			BitBlt(hCaptureDC, 0, 0, nScreenWidth, nScreenHeight,
 				hDesktopDC, 0, 0, SRCCOPY | CAPTUREBLT);
